@@ -1,0 +1,19 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vys001/Invite/main/invite.txt",true))()
+function msg(text)
+    local A_1 = text
+local A_2 = "booth"
+local event = game:GetService("ReplicatedStorage").Events.EditBooth
+event:FireServer(A_1, A_2)
+end
+while wait(2) do
+    msg("👋 | Hello, I'm Evan!")
+    wait(3)
+    msg("I am selling Shirt Designs soon, so consider this as a fundraiser. Shirt designs will come later!")
+      wait(3)
+    msg("If you would like, feel free to donate. All donations are well appreciated!")
+     wait(3)
+    msg("🎉 | All donations goes towards my friend's birthday, which is in 2 weeks!")
+    wait(3)
+    msg("Thank you to all donators, see you again soon!")
+    wait(2)
+    end
