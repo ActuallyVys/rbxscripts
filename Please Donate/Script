@@ -8,11 +8,11 @@ end
 while wait(2) do
     msg("👋 | Hello, I'm Evan!")
     wait(3)
-    msg("I am a small proxy developer/engineer, and I mainly work on web proxies.")
+    msg("I am collecting enough robux to sell clothing sets. Expect those soon enough!")
       wait(3)
     msg("If you would like, feel free to donate. All donations are well appreciated!")
      wait(3)
-    msg("🎉 | All donations goes towards my development project!")
+    msg("🎉 | All donations goes towards my clothing set funding!")
     wait(3)
     msg("Thank you to all donators, see you again soon!")
     wait(2)
