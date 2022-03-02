@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vys001/Invite/main/invite.txt",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vys001/rbxscripts/main/Please%20Donate/Invite",true))()
 function msg(text)
     local A_1 = text
 local A_2 = "booth"
