@@ -6,7 +6,7 @@ local event = game:GetService("ReplicatedStorage").Events.EditBooth
 event:FireServer(A_1, A_2)
 end
 while wait(2) do
-    msg("👋 | Hello, I'm <font color="rgb(99, 127, 232)">Evan</font>!")
+    msg("👋 | Hello, I'm Evan!")
     wait(3)
     msg("I am selling Shirt Designs soon, so consider this as a fundraiser. Shirt designs will come later!")
       wait(3)
