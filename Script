@@ -8,7 +8,7 @@ end
 while wait(2) do
     msg("👋 | Hello, I'm <font color="rgb(99, 127, 232)">Evan</font>!")
     wait(3)
-    msg("I am selling <stroke color="#2A0030" thickness="1"><font size="90"><font color= "#FF0000"><font face="Bangers">Shirt Designs</font></font></font></stroke> soon, so consider this as a fundraiser. Shirt designs will come later!")
+    msg("I am selling Shirt Designs soon, so consider this as a fundraiser. Shirt designs will come later!")
       wait(3)
     msg("If you would like, feel free to donate. All donations are well appreciated!")
      wait(3)
